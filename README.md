@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/utkarsh-00007/utkarsh-00007/main/PSX_20220122_162319.jpg"/>
 <h1 align="center">Hi 👋, I'm Utkarsh Dwivedi</h1>
 <h3 align="center">A passionate coder from India</h3>
 
