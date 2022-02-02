@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Java and DSA**
 
-- 💬 Ask me about **Coding**
-
 - 📫 How to reach me : **dwivediutkarsh525@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
