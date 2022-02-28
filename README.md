@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-00007" alt="utkarsh-00007" /></a> </p>
 
-- 🔭 I’m currently working on **Data structure and Algorithm**
+- 🔭 I’m currently working on **Frontier Technology**
 
 - 🌱 I’m currently learning **Java and DSA**
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am funny XD**
 
--  ✍️ **“Consistency is what transforms average into excellence.”**
+- 💥 **“Just because no moves are being posted doesn't mean no moves are being made, Remember that.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
