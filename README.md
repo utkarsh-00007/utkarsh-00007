@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/utkarsh-00007/utkarsh-00007/main/PSX_20220122_162319.jpg"/>
 <h1 align="center">Hi 👋, I'm Utkarsh Dwivedi</h1>
-<h3 align="center">----------  "One Man Show"  ----------</h3>
-
+<!-- <h3 align="center">----------  "One Man Show"  ----------</h3>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-00007&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-00007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-00007" alt="utkarsh-00007" /></a> </p>
@@ -11,11 +11,10 @@
 - 🌱 I’m currently learning **Java and DSA**
 
 - 📫 How to reach me : **dwivediutkarsh525@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
-
-- 💥 **“Just because no moves are being posted doesn't mean no moves are being made, Remember that.”**
-
+<!-- - ⚡ Fun fact **I think I am funny XD**
+ -->
+<!-- - 💥 **“Just because no moves are being posted doesn't mean no moves are being made, Remember that.”**
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utkarsh-dwivedi-7a3199205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh dwivedi" height="30" width="40" /></a>
