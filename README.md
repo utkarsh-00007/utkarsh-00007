@@ -1,7 +1,13 @@
 <img align="center" src="https://raw.githubusercontent.com/utkarsh-00007/utkarsh-00007/main/PSX_20220122_162319.jpg"/>
-<h1 align="center">Hi 👋, I'm Utkarsh Dwivedi</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Dwivedi,<br> Great to see you here!</h1>
 <!-- <h3 align="center">----------  "One Man Show"  ----------</h3>
  -->
+ 
+
+<p algin = "center"><a href="https://github.com/utkarsh-00007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full%20Stack%20Developer%20;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤%20!;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=DodgerBlue&vleft=true&size=22"></a>
+</p>
+<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-00007&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-00007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-00007" alt="utkarsh-00007" /></a> </p>
@@ -32,3 +38,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-00007&show_icons=true&locale=en" alt="utkarsh-00007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-00007&" alt="utkarsh-00007" /></p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/utkarsh-00007/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=utkarsh-00007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
