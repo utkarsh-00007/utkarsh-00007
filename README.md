@@ -1,4 +1,5 @@
-<img align="center" src="https://raw.githubusercontent.com/utkarsh-00007/utkarsh-00007/main/PSX_20220122_162319.jpg"/>
+<!-- <img align="center" src="https://raw.githubusercontent.com/utkarsh-00007/utkarsh-00007/main/PSX_20220122_162319.jpg"/> -->
+<img align="center" src="https://raw.githubusercontent.com/utkarsh-00007/utkarsh-00007/main/header.png"/>
 <h1 align="center">Hi 👋, I'm Utkarsh Dwivedi,<br> Great to see you here!</h1>
 <!-- <h3 align="center">----------  "One Man Show"  ----------</h3>
  -->
@@ -61,5 +62,5 @@
 
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <h2 align="center">
-<p align="center"><img width="200%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+<p align="center"><img width="100%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
